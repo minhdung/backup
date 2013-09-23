@@ -3,7 +3,7 @@
 # Load Ruby Core Libraries
 require 'fileutils'
 require 'tempfile'
-require 'syslog'
+#require 'syslog'
 require 'yaml'
 require 'etc'
 require 'forwardable'
